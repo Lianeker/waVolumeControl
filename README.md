@@ -1,5 +1,7 @@
 # wkVolumeControl
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/28d6b09e-64fa-47f4-add8-c1a05f83e0d8" />
+
 WormKit module for Worms Armageddon 3.8+ that lets you adjust, independently
 and **while playing**:
 
